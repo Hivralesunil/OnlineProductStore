@@ -1,1 +1,3 @@
 # OnlineProductStore
+•	Developed a robust Online Product Store utilizing Java Servlets for backend functionality, leveraging Oracle Database for efficient data management of user accounts, product inventory, and shopping cart transactions. Employed HTML and CSS to craft an intuitive and responsive user interface, ensuring seamless navigation and optimal user experience across devices.
+•	ImpleImplemented agile development methodologies to iteratively design, test, and deploy features, facilitating rapid adaptation to evolving project requirements and delivering a high-quality product within specified timelines.
